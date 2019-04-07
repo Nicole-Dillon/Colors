@@ -14,6 +14,8 @@
 		EFB955C92259ED9300BD74C0 /* ColorsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB955C82259ED9300BD74C0 /* ColorsTests.swift */; };
 		EFB955D42259ED9300BD74C0 /* ColorsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB955D32259ED9300BD74C0 /* ColorsUITests.swift */; };
 		EFB955E22259EE3E00BD74C0 /* ColorsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB955E12259EE3E00BD74C0 /* ColorsViewController.swift */; };
+		EFB955E42259F28B00BD74C0 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB955E32259F28B00BD74C0 /* Color.swift */; };
+		EFB955E62259F62500BD74C0 /* ColorDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB955E52259F62500BD74C0 /* ColorDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		EFB955D32259ED9300BD74C0 /* ColorsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsUITests.swift; sourceTree = "<group>"; };
 		EFB955D52259ED9300BD74C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EFB955E12259EE3E00BD74C0 /* ColorsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsViewController.swift; sourceTree = "<group>"; };
+		EFB955E32259F28B00BD74C0 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		EFB955E52259F62500BD74C0 /* ColorDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				EFB955BC2259ED9300BD74C0 /* LaunchScreen.storyboard */,
 				EFB955BF2259ED9300BD74C0 /* Info.plist */,
 				EFB955E12259EE3E00BD74C0 /* ColorsViewController.swift */,
+				EFB955E32259F28B00BD74C0 /* Color.swift */,
+				EFB955E52259F62500BD74C0 /* ColorDetailViewController.swift */,
 			);
 			path = Colors;
 			sourceTree = "<group>";
@@ -258,6 +264,8 @@
 			files = (
 				EFB955E22259EE3E00BD74C0 /* ColorsViewController.swift in Sources */,
 				EFB955B42259ED9200BD74C0 /* AppDelegate.swift in Sources */,
+				EFB955E42259F28B00BD74C0 /* Color.swift in Sources */,
+				EFB955E62259F62500BD74C0 /* ColorDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
